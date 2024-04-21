@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/gilSFranco/gilSFranco/blob/main/img-wlp-2.jpg" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/gilSFranco/gilSFranco/blob/main/img-wallpaper-small.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
