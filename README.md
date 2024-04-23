@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gilSFranco&theme=radical&mode=weekly" />
+<img width=56.5% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gilSFranco&theme=radical&mode=weekly" />
 <img width=40.5% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gilSFranco&show_icons=true&theme=radical&layout=compact" />
  </div>
  
